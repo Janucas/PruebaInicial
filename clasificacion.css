@@ -1,0 +1,111 @@
+ody {
+    background-color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+caption{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    background-color: #ef5050;
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+    padding: 1em;
+    background: #ff0000;
+    border-bottom: 2px solid rgb(0, 0, 0); 
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    }
+table {
+    border-collapse: collapse;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    tab-size: 1000px;
+    }
+    table, th, td {
+    border: none;
+    padding: 10px;
+    border-collapse: collapse;
+    overflow: hidden;
+    padding: 1em;
+    
+    }
+.center {
+    margin: auto;
+    text-align: center;
+    }
+
+.botones {
+    text-align: center;
+}
+
+.insertar {
+    text-align: center;
+    ;
+}
+.titulo {
+    width: 100%;
+    background-color: #ff0000;
+    border-radius: 10px;
+    font-size: 35px;
+    text-align: center;
+}
+
+
+header {
+    background-color: #000000; /* Fondo rojo */
+    color: #fff; /* Texto blanco */
+    padding: 10px 0;
+    border-radius: 10px; /* Bordes redondos */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+
+ 
+.clasificacion {
+    margin-right: 33%;
+    text-decoration: none;
+    color: white;
+}
+
+.equipos {
+    position: absolute;
+    text-decoration: none;
+    color: white;
+}
+
+.suscribete {
+    margin-left: 33%;
+    text-decoration: none;
+    color: white;
+}
+
+.boton {
+    margin-left: 10%;
+
+}
+
+.fotoCuerpo{
+    text-align: center;
+}
+
+.pie {
+    background-color: #000000; /* Fondo rojo */
+    color: #fff; /* Texto blanco */
+    padding: 10px 0;
+    border-radius: 10px; /* Bordes redondos */
+}
